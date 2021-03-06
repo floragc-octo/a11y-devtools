@@ -9,23 +9,23 @@
 Dernière mise à jour - 06/03/2021
 
 ---
+
 - [Liste (travail en cours) d'outils liés à l'accessibilité pour les développeurs](#Liste-travail-en-cours-doutils-li%C3%A9s-%C3%A0-laccessibilit%C3%A9-pour-les-d%C3%A9veloppeurs)
-  - [## Apprentissage / Documentations](#Apprentissage--Documentations)
+  - [Apprentissage / Documentations](#Apprentissage--Documentations)
     - [Guidelines et réglementations](#Guidelines-et-r%C3%A9glementations)
     - [Listes de documentations utiles](#Listes-de-documentations-utiles)
-  - [## Checklists](#Checklists)
-  - [## Extensions pour navigateurs web, et bookmarklets](#Extensions-pour-navigateurs-web-et-bookmarklets)
+  - [Checklists](#Checklists)
+  - [Extensions pour navigateurs web, et bookmarklets](#Extensions-pour-navigateurs-web-et-bookmarklets)
     - [Les leaders](#Les-leaders)
     - [Autres outils utiles](#Autres-outils-utiles)
-  - [## Outils proposant une intégration dans une CI](#Outils-proposant-une-int%C3%A9gration-dans-une-CI)
-  - [## Exemples de code, librairies et templates](#Exemples-de-code-librairies-et-templates)
-  - [## Tester par d'autres moyens](#Tester-par-dautres-moyens)
-  - [## TODO - Les choses à ne pas faire](#TODO---Les-choses-%C3%A0-ne-pas-faire)
-  - [## Divers](#Divers)
+  - [Outils proposant une intégration dans une CI](#Outils-proposant-une-int%C3%A9gration-dans-une-CI)
+  - [Exemples de code, librairies et templates](#Exemples-de-code-librairies-et-templates)
+  - [Tester par d'autres moyens](#Tester-par-dautres-moyens)
+  - [TODO - Les choses à ne pas faire](#TODO---Les-choses-%C3%A0-ne-pas-faire)
+  - [Divers](#Divers)
 
 
 ## Apprentissage / Documentations
----
 
 ### Guidelines et réglementations
 * [WCAG 2.0 Guidelines](https://www.w3.org/TR/WCAG20/#guidelines) - Liste des guidelines du WCAG (W3C Accessiblity Guidelines).
@@ -53,7 +53,6 @@ Dernière mise à jour - 06/03/2021
 * [A11yCoffee](https://a11y.coffee/)
 
 ## Checklists
----
 
 * [Checklist A11y project](https://www.a11yproject.com/checklist/) - Checklist des recommandations WCAG pouvant servir d'exemple et fournie par le A11y Project.
 
@@ -61,7 +60,6 @@ Dernière mise à jour - 06/03/2021
 * [Checklist US gov](https://accessibility.digital.gov/front-end/getting-started/) - Checklist du gouvernement américain - partie développeur frontend.
 
 ## Extensions pour navigateurs web, et bookmarklets
----
 
 ### Les leaders
 * [Lighthouse (Chrome)](https://developers.google.com/web/tools/lighthouse) - Lighthouse (Google)est une extension pré-installée sur Chrome et qui fournit plusieurs types d'audit d'une page web notamment l'accessibilité, les bonnes pratiques et la performance.
@@ -79,7 +77,6 @@ Dernière mise à jour - 06/03/2021
 * [Images On/Off (Chrome)](https://chrome.google.com/webstore/detail/images-onoff/nfmlhilnjccdggifdbhnhkffmjgalbgg) - Extension Chrome permettant de désactiver toutes les images d'un site pour tester le comportement.
 
 ## Outils proposant une intégration dans une CI
----
 
 * [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci/blob/main/docs/getting-started.md) - Voir plus haut pour une description de Lighthouse. L'outil s'intégre aussi dans une CI et est compatible avec la plupart des providers du marché(Github Actions, Travis CI, Circle CI, Gitlab CI,...).
 
@@ -90,7 +87,6 @@ Dernière mise à jour - 06/03/2021
 * [Asqatasun](https://asqatasun.org/) - TODO
 
 ## Exemples de code, librairies et templates
----
 
 * [Van11y](https://van11y.net/) - Collection de scripts accessibles pour des Rich Interfaces Elements tels que des modal, tooltips etc. et utilisant les guidelines ARIA.
 
@@ -102,16 +98,13 @@ Dernière mise à jour - 06/03/2021
 * [Deque University code library (beta)](https://dequeuniversity.com/library/) - Deque (concepteur de l'outil Axe) fournit une liste de composants accessibles (code source + référence aux guidelines WCAG).
 
 ## Tester par d'autres moyens
----
 
 * [VoiceOver - WebAIM](https://webaim.org/articles/voiceover/) - Ressource de WebAIM expliquant comme utiliser VoiceOver pour vérifier l'accessibilité d'un web site.
 
 ## TODO - Les choses à ne pas faire
----
 
 > Ressources sur les choses à challenger en tant que dev (personnaliser les inputs etc.)
 
 ## Divers
----
 
 * [a11y-nutrition-cards](https://davatron5000.github.io/a11y-nutrition-cards/#tooltip) - visualisation simplifiée des attentes en terme d'accessibilité sur certains types de composants (button, tabs, ...)
