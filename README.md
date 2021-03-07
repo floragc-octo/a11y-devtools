@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/48243955/110245806-0a875d80-7f65-11eb-933e-8ecb9b1ded93.png" />
 </p>
 
-# Liste d'outils liés à l'accessibilité pour les développeurs (travail en cours)
+# Liste d'outils liés à l'accessibilité web pour les développeurs (travail en cours)
 
 > La liste n'a pas vocation à être exhaustive (mais vous pouvez proposer des ajouts / mise à jour) et est orientée **développeur web**.
 
