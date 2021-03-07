@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48243955/110245806-0a875d80-7f65-11eb-933e-8ecb9b1ded93.png" />
+</p>
+
 # Liste (travail en cours) d'outils liés à l'accessibilité pour les développeurs
 
 > La liste n'a pas vocation à être exhaustive (mais vous pouvez proposer des ajouts / mise à jour) et est orientée **développeur web**.
 
-> Pas d'outils payants dans cette liste (pour l'instant ?)
-
-> Les liens étant majoritairement anglophones j'ai choisi de préciser lorsqu'ils étaient disponibles en français 
+> Les liens sont majoritairement anglophones j'ai donc choisi de préciser lorsqu'ils étaient disponibles en français 
 
 Dernière mise à jour - 06/03/2021
 
