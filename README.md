@@ -22,7 +22,7 @@ Dernière mise à jour - 06/03/2021
   - [Outils proposant une intégration dans une CI](#Outils-proposant-une-int%C3%A9gration-dans-une-CI)
   - [Exemples de code, librairies et templates](#Exemples-de-code-librairies-et-templates)
   - [Tester par d'autres moyens](#Tester-par-dautres-moyens)
-  - [TODO - Les choses à ne pas faire](#TODO---Les-choses-%C3%A0-ne-pas-faire)
+  - [TODO - Bonnes pratiques](#TODO---Bonnes-pratiques)
   - [Divers](#Divers)
 
 
