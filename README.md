@@ -12,7 +12,6 @@ Dernière mise à jour - 06/03/2021
 
 ---
 
-- [Liste (travail en cours) d'outils liés à l'accessibilité pour les développeurs](#Liste-travail-en-cours-doutils-li%C3%A9s-%C3%A0-laccessibilit%C3%A9-pour-les-d%C3%A9veloppeurs)
   - [Apprentissage / Documentations](#Apprentissage--Documentations)
     - [Guidelines et réglementations](#Guidelines-et-r%C3%A9glementations)
     - [Listes de documentations utiles](#Listes-de-documentations-utiles)
@@ -80,9 +79,9 @@ Dernière mise à jour - 06/03/2021
 
 ## Outils proposant une intégration dans une CI
 
-* [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci/blob/main/docs/getting-started.md) - Voir plus haut pour une description de Lighthouse. L'outil s'intégre aussi dans une CI et est compatible avec la plupart des providers du marché(Github Actions, Travis CI, Circle CI, Gitlab CI,...).
+* [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci/blob/main/docs/getting-started.md) - Voir plus haut pour une description de Lighthouse. L'outil s'intégre aussi dans une CI et est compatible avec la plupart des providers du marché (Github Actions, Travis CI, Circle CI, Gitlab CI,...).
 
-* [Axe core](https://www.deque.com/axe/browser-extensions/) - TODO
+* [Axe core](https://www.deque.com/axe/browser-extensions/) - Voir plus haut pour une description de Axe. TODO pour la partie CI.
 
 * [Pa11y CI](https://github.com/pa11y/pa11y-ci) - Pa11y CI est un utilitaire de tests d'accessibilité s'intégrant à une CI, et basé sur [Pa11y](https://github.com/pa11y/pa11y).
 
@@ -90,21 +89,22 @@ Dernière mise à jour - 06/03/2021
 
 ## Exemples de code, librairies et templates
 
-* [Van11y](https://van11y.net/) - Collection de scripts accessibles pour des Rich Interfaces Elements tels que des modal, tooltips etc. et utilisant les guidelines ARIA.
+* [Van11y](https://van11y.net/) - Collection de scripts accessibles pour des *Rich Interfaces Elements* tels que des modals, tooltips etc. et utilisant les guidelines ARIA.
 
 * [inclusive-components.design](https://inclusive-components.design/) - Librairies de patterns accessible avec exemple de *inclusive components* (tels que todolist, image slider) avec des explications et des exemples de code.
 
-* [Accessible components](https://github.com/scottaohara/accessible_components) - Repository (Github) avec des exemples de composants accessibles (js) et des explications (MIT licence). Du même auteur: [The Accessibility of Styled Form Controls
+* [Accessible components](https://github.com/scottaohara/accessible_components) - Repository Github avec des exemples de composants accessibles (js) et des explications (MIT licence). Du même auteur: [The Accessibility of Styled Form Controls
 ](https://github.com/scottaohara/a11y_styled_form_controls).
 
-* [Deque University code library (beta)](https://dequeuniversity.com/library/) - Deque (concepteur de l'outil Axe) fournit une liste de composants accessibles (code source + référence aux guidelines WCAG).
+* [Deque University code library (beta)](https://dequeuniversity.com/library/) - Deque (concepteur de l'outil Axe) propose une liste de composants accessibles (code source + référence aux guidelines WCAG).
 
 ## Tester par d'autres moyens
 
 * [VoiceOver - WebAIM](https://webaim.org/articles/voiceover/) - Ressource de WebAIM expliquant comme utiliser VoiceOver pour vérifier l'accessibilité d'un web site.
 
-## TODO - Les choses à ne pas faire
+## TODO - Bonnes pratiques
 
+> Todo
 > Ressources sur les choses à challenger en tant que dev (personnaliser les inputs etc.)
 
 ## Divers
