@@ -6,9 +6,7 @@
 
 > La liste n'a pas vocation à être exhaustive (mais vous pouvez proposer des ajouts / mise à jour) et est orientée **développeur web**.
 
-> Les liens sont majoritairement anglophones j'ai donc choisi de préciser lorsqu'ils étaient disponibles en français 
-
-Dernière mise à jour - 06/03/2021
+> Les liens sont majoritairement anglophones j'ai donc choisi de préciser lorsqu'ils étaient disponibles en français
 
 ---
 
@@ -33,8 +31,8 @@ Dernière mise à jour - 06/03/2021
 
 * [WAI - Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) - Liste de personas d'utilisateurs du web avec divers handicaps proposée par le WAI (Web Accessibility Initiative, part of W3C). Chacun des personas réfèrence des liens vers les sections concernées des guidelines du WAI.
 
-* [RGAA - numerique.gouv.fr (fr)](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/) - Site du gouvernement pour le Référentiel Général d'Amélioration de l'Accessibilité).
-* [RGAA - critères et tests (fr)](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode-rgaa/criteres/) - Liste des critères et tests du RGAA.
+* [fr] [RGAA - numerique.gouv.fr](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/) - Site du gouvernement pour le Référentiel Général d'Amélioration de l'Accessibilité).
+* [fr] [RGAA - critères et tests](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode-rgaa/criteres/) - Liste des critères et tests du RGAA.
 
 
 > https://www.w3.org/WAI/ER/tools/
@@ -69,6 +67,7 @@ Dernière mise à jour - 06/03/2021
 
 ### Autres outils utiles
 > Note: les bookmarklets sont des scripts javascript qui peuvent être executés depuis un signet. Ils ne nécessitent donc pas d'installation. 
+* [Validator](https://validator.w3.org/)
 * [Pa11y](https://github.com/pa11y/pa11y) - Outil d'automatisation de tests d'accessibilité disponible en CLI ou en package node. Peut être utilisé avec Axe.
   * [Koa11y](https://open-indy.github.io/Koa11y/) - Application desktop (Windows, OSX et Linux) utilisant Pa11y.
 * [tota11y](https://khan.github.io/tota11y/) - Bookmarklet fourni par la Khan Academy ([Github](https://github.com/Khan/tota11y)) mettant en avant les manquements aux guidelines WCAG d'une page web.
@@ -109,4 +108,4 @@ Dernière mise à jour - 06/03/2021
 
 ## Divers
 
-* [a11y-nutrition-cards](https://davatron5000.github.io/a11y-nutrition-cards/#tooltip) - visualisation simplifiée des attentes en terme d'accessibilité sur certains types de composants (button, tabs, ...)
+* [a11y-nutrition-cards](https://davatron5000.github.io/a11y-nutrition-cards) - visualisation simplifiée des attentes en terme d'accessibilité sur certains types de composants (button, tabs, ...)
